@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2022-06-14T08:08:36.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-OZGxPkCWle4IbZsq4uX" version="20.0.1" type="github">
+  <diagram id="ZCInaTzy0Fkza2JI0etF" name="第 1 页">
+    <mxGraphModel dx="2411" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VniZeGjdcyLNi0aRemYM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="440" width="600" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="220" width="500" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-4" value="行为产生" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-5" value="上报" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-6" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-7" value="确定违规行为" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-8" value="处罚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-9" value="行为产生" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-10" value="上报" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-11" value="确定违规行为" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-12" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-13" value="处罚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-14" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-15" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-16" value="确定违规行为" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-17" value="确定违规行为" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-18" value="处罚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-19" value="处罚" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-20" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-21" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-22" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-23" value="判定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-24" value="需要定义N个违规行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="280" y="500" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-25" value="需要定义1个违规行为" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="630" y="380" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-26" value="是否小哥责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-27" value="是否小哥责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-28" value="取消" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-29" value="是否小哥责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="390" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-30" value="取消" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-31" value="责任方= XX&lt;br&gt;取消时间 = X~Y" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="960" y="510" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-32" value="判责" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-300" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VniZeGjdcyLNi0aRemYM-33" value="判责" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
